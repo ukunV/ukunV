@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://ukunv.tistory.com/">
-    <img target="_blank" alt="&#32;CLICK TO cd /blog" width="500">
+    <img target="_blank" alt="\tCLICK TO cd /blog" width="500">
   </a>
 </p>
 
