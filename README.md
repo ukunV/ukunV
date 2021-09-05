@@ -10,8 +10,8 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://ukunv.tistory.com/">
-    <img src="https://user-images.githubusercontent.com/23329560/131354283-a15e76c5-e6dc-43d1-9e78-e26fe2129a2c.png" target="_blank" alt="CLICK TO cd /blog" width="500">
+  <a href="https://ukunv.tistory.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/23329560/131354283-a15e76c5-e6dc-43d1-9e78-e26fe2129a2c.png" alt="CLICK TO cd /blog" width="500">
   </a>
 </p>
 
